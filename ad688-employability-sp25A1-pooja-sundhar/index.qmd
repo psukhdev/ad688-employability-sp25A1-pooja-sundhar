@@ -1,7 +1,23 @@
 ---
 title: "ad688-employability-sp25A1-pooja-sundhar"
+author: "Pooja and Sundhar"
+date: "YYYY-MM-DD"
+format: html
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Research Rationale
+
+ Salaries and compensation trends are important indications of economic health and labor market demand.  With the proliferation of artificial intelligence (AI) across industries, it is critical to examine how earnings in AI-related jobs compare to traditional employment responsibilities.  Pay discrepancies, regional variances, and the effect of remote labor on earnings are all important considerations for job searchers and politicians.  Understanding these patterns can help professionals make more informed career choices and organizations improve their hiring practices.
+
+ The purpose of this study is to compare the salary structures of AI and non-AI careers, find high-paying regions, and determine whether remote positions pay better than in-office roles.  Furthermore, the study will identify industries with the biggest salary increase in 2024, providing important insights into market trends and future workforce demands.
+
+
+## Literature Review
+
+Recent studies have highlighted the rapid wage growth in AI-related fields. Brynjolfsson & McAfee (2023) found that AI specialists, particularly those in machine learning and natural language processing, earn 30–50% higher salaries than their non-AI counterparts due to increased demand and skill scarcity (Brynjolfsson & McAfee, 2023). Their research also noted that Silicon Valley, New York, and London offer some of the highest salaries for AI professionals, whereas traditional careers see slower wage growth in these regions.
+
+Further, Katz & Krueger (2024) investigated the impact of remote work on salary structures and found that remote AI jobs tend to pay 10-20% higher salaries than equivalent in-office positions. The flexibility of remote work allows companies to tap into a global talent pool, reducing hiring costs while maintaining competitive salaries (Katz & Krueger, 2024). Moreover, the technology, healthcare, and finance sectors witnessed the highest wage growth in 2024, largely driven by AI automation and demand for specialized skills.
